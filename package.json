@@ -12,7 +12,9 @@
   "dependencies": {
     "react": "17.0.2",
     "react-native": "0.66.4",
-    "rn-ninja-components-one": "^1.0.0"
+    "react-native-nc-components-levelone": "https://github.com/ayyanababu/react-native-nc-components-levelone.git",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.10.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",

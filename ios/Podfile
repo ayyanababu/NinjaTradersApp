@@ -12,7 +12,7 @@ target 'NinjaTradersApp' do
     :hermes_enabled => false
   )
 
-  pod 'rn-ninja-components-one', :path => '../node_modules/rn-ninja-components-one'
+  # pod 'rn-ninja-components-one', :path => '../node_modules/rn-ninja-components-one'
 
   target 'NinjaTradersAppTests' do
     inherit! :complete
